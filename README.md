@@ -23,6 +23,9 @@
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=joshigaurav-2712&show_icons=true&locale=en&layout=compact" alt="joshigaurav-2712" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joshigaurav-2712&show_icons=true&locale=en" alt="joshigaurav-2712" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=joshiGaurav-2712&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=joshiGaurav-2712&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshiGaurav-2712&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshigaurav-2712&" alt="joshigaurav-2712" /></p>
