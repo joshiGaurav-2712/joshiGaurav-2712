@@ -1,6 +1,6 @@
-![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Gaurav Joshi</h1>
-<h3 align="center">A passionate Computer Engineering Student from India</h3>
+<h3 align="center">A passionate computer engineering student from India</h3>
 <img align="right" atl="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshigaurav-2712&label=Profile%20views&color=0e75b6&style=flat" alt="joshigaurav-2712" /> </p>
