@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Gaurav Joshi</h1>
-<h3 align="center">A passionate computer engineering student from India</h3>
+<h3 align="center">A passionate Computer Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <img align="left" src="https://komarev.com/ghpvc/?username=joshiGaurav-2712&style=flat-square" alt="joshiGaurav-2712">
 <br>
